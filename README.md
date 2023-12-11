@@ -7,8 +7,5 @@ I am a junior web developer with the skills of MERN. I am a dedicated person to 
 
 Skills:   REACT / JS / HTML / CSS/C
 
-- 🔭 I’m currently working on this page. 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Habib0011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-habibur-rahman-eftee-941413298//)  
 
